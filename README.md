@@ -1,2 +1,2 @@
 # scalainaction.github.io
-Scala in Action
+It's all about the design and coding principles of the Scala programming language.
